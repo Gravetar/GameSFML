@@ -1,0 +1,252 @@
+﻿  main.cpp
+D:\University\3 course\Computer Graphic\LAB3_4\Lab34CG\Lab34CG\Player.h(58,42): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+D:\University\3 course\Computer Graphic\LAB3_4\Lab34CG\Lab34CG\Player.h(58,39): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+D:\University\3 course\Computer Graphic\LAB3_4\Lab34CG\Lab34CG\Player.h(101,1): warning C4305: =: усечение из "double" в "float"
+D:\University\3 course\Computer Graphic\LAB3_4\Lab34CG\Lab34CG\Player.h(103,1): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+D:\University\3 course\Computer Graphic\LAB3_4\Lab34CG\Lab34CG\Player.h(105,64): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+D:\University\3 course\Computer Graphic\LAB3_4\Lab34CG\Lab34CG\Player.h(105,61): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+D:\University\3 course\Computer Graphic\LAB3_4\Lab34CG\Lab34CG\Player.h(105,58): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+D:\University\3 course\Computer Graphic\LAB3_4\Lab34CG\Lab34CG\Player.h(105,37): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+D:\University\3 course\Computer Graphic\LAB3_4\Lab34CG\Lab34CG\Player.h(114,1): warning C4305: =: усечение из "double" в "float"
+D:\University\3 course\Computer Graphic\LAB3_4\Lab34CG\Lab34CG\Player.h(116,1): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+D:\University\3 course\Computer Graphic\LAB3_4\Lab34CG\Lab34CG\Player.h(118,68): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+D:\University\3 course\Computer Graphic\LAB3_4\Lab34CG\Lab34CG\Player.h(118,65): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+D:\University\3 course\Computer Graphic\LAB3_4\Lab34CG\Lab34CG\Player.h(118,60): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+D:\University\3 course\Computer Graphic\LAB3_4\Lab34CG\Lab34CG\Player.h(118,37): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+D:\University\3 course\Computer Graphic\LAB3_4\Lab34CG\Lab34CG\Player.h(128,1): warning C4305: =: усечение из "double" в "float"
+D:\University\3 course\Computer Graphic\LAB3_4\Lab34CG\Lab34CG\Player.h(130,1): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+D:\University\3 course\Computer Graphic\LAB3_4\Lab34CG\Lab34CG\Player.h(132,68): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+D:\University\3 course\Computer Graphic\LAB3_4\Lab34CG\Lab34CG\Player.h(132,65): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+D:\University\3 course\Computer Graphic\LAB3_4\Lab34CG\Lab34CG\Player.h(132,60): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+D:\University\3 course\Computer Graphic\LAB3_4\Lab34CG\Lab34CG\Player.h(132,37): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+D:\University\3 course\Computer Graphic\LAB3_4\Lab34CG\Lab34CG\Player.h(141,1): warning C4305: =: усечение из "double" в "float"
+D:\University\3 course\Computer Graphic\LAB3_4\Lab34CG\Lab34CG\Player.h(143,1): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+D:\University\3 course\Computer Graphic\LAB3_4\Lab34CG\Lab34CG\Player.h(145,68): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+D:\University\3 course\Computer Graphic\LAB3_4\Lab34CG\Lab34CG\Player.h(145,65): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+D:\University\3 course\Computer Graphic\LAB3_4\Lab34CG\Lab34CG\Player.h(145,60): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+D:\University\3 course\Computer Graphic\LAB3_4\Lab34CG\Lab34CG\Player.h(145,37): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+D:\University\3 course\Computer Graphic\LAB3_4\Lab34CG\Lab34CG\Player.h(151,1): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+D:\University\3 course\Computer Graphic\LAB3_4\Lab34CG\Lab34CG\Player.h(155,1): warning C4305: -=: усечение из "double" в "float"
+D:\University\3 course\Computer Graphic\LAB3_4\Lab34CG\Lab34CG\Player.h(160,1): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+D:\University\3 course\Computer Graphic\LAB3_4\Lab34CG\Lab34CG\Player.h(162,68): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+D:\University\3 course\Computer Graphic\LAB3_4\Lab34CG\Lab34CG\Player.h(162,65): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+D:\University\3 course\Computer Graphic\LAB3_4\Lab34CG\Lab34CG\Player.h(162,60): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+D:\University\3 course\Computer Graphic\LAB3_4\Lab34CG\Lab34CG\Player.h(162,37): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+D:\University\3 course\Computer Graphic\LAB3_4\Lab34CG\Lab34CG\Player.h(163,16): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+D:\University\3 course\Computer Graphic\LAB3_4\Lab34CG\Lab34CG\Player.h(164,17): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+D:\University\3 course\Computer Graphic\LAB3_4\Lab34CG\Lab34CG\Player.h(170,1): warning C4244: -=: преобразование "double" в "float", возможна потеря данных
+D:\University\3 course\Computer Graphic\LAB3_4\Lab34CG\Lab34CG\Player.h(171,1): warning C4244: -=: преобразование "double" в "float", возможна потеря данных
+D:\University\3 course\Computer Graphic\LAB3_4\Lab34CG\Lab34CG\Player.h(172,1): warning C4244: -=: преобразование "double" в "float", возможна потеря данных
+D:\University\3 course\Computer Graphic\LAB3_4\Lab34CG\Lab34CG\Player.h(201,1): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+D:\University\3 course\Computer Graphic\LAB3_4\Lab34CG\Lab34CG\Player.h(203,65): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+D:\University\3 course\Computer Graphic\LAB3_4\Lab34CG\Lab34CG\Player.h(203,62): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+D:\University\3 course\Computer Graphic\LAB3_4\Lab34CG\Lab34CG\Player.h(203,58): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+D:\University\3 course\Computer Graphic\LAB3_4\Lab34CG\Lab34CG\Player.h(203,36): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+D:\University\3 course\Computer Graphic\LAB3_4\Lab34CG\Lab34CG\Player.h(209,14): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+D:\University\3 course\Computer Graphic\LAB3_4\Lab34CG\Lab34CG\Player.h(210,15): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+D:\University\3 course\Computer Graphic\LAB3_4\Lab34CG\Lab34CG\Player.h(227,1): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+D:\University\3 course\Computer Graphic\LAB3_4\Lab34CG\Lab34CG\Player.h(247,18): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\University\3 course\Computer Graphic\LAB3_4\Lab34CG\Lab34CG\Player.h(255,18): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\University\3 course\Computer Graphic\LAB3_4\Lab34CG\Lab34CG\Player.h(297,8): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\University\3 course\Computer Graphic\LAB3_4\Lab34CG\Lab34CG\Player.h(297,18): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\University\3 course\Computer Graphic\LAB3_4\Lab34CG\Lab34CG\Objects.h(54,76): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+D:\University\3 course\Computer Graphic\LAB3_4\Lab34CG\Lab34CG\Objects.h(54,69): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+D:\University\3 course\Computer Graphic\LAB3_4\Lab34CG\Lab34CG\Objects.h(54,64): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+D:\University\3 course\Computer Graphic\LAB3_4\Lab34CG\Lab34CG\Objects.h(54,46): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+D:\University\3 course\Computer Graphic\LAB3_4\Lab34CG\Lab34CG\Objects.h(65,34): warning C4838: Преобразование из "float" в "int" требует сужающего преобразования.
+D:\University\3 course\Computer Graphic\LAB3_4\Lab34CG\Lab34CG\Objects.h(65,34): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+D:\University\3 course\Computer Graphic\LAB3_4\Lab34CG\Lab34CG\Objects.h(65,48): warning C4838: Преобразование из "float" в "int" требует сужающего преобразования.
+D:\University\3 course\Computer Graphic\LAB3_4\Lab34CG\Lab34CG\Objects.h(65,48): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+D:\University\3 course\Computer Graphic\LAB3_4\Lab34CG\Lab34CG\Objects.h(66,37): warning C4838: Преобразование из "float" в "int" требует сужающего преобразования.
+D:\University\3 course\Computer Graphic\LAB3_4\Lab34CG\Lab34CG\Objects.h(66,37): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+D:\University\3 course\Computer Graphic\LAB3_4\Lab34CG\Lab34CG\Objects.h(66,67): warning C4838: Преобразование из "float" в "int" требует сужающего преобразования.
+D:\University\3 course\Computer Graphic\LAB3_4\Lab34CG\Lab34CG\Objects.h(66,67): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+D:\University\3 course\Computer Graphic\LAB3_4\Lab34CG\Lab34CG\Objects.h(94,26): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\University\3 course\Computer Graphic\LAB3_4\Lab34CG\Lab34CG\Objects.h(95,26): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\University\3 course\Computer Graphic\LAB3_4\Lab34CG\Lab34CG\Objects.h(96,49): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\University\3 course\Computer Graphic\LAB3_4\Lab34CG\Lab34CG\Objects.h(96,33): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\University\3 course\Computer Graphic\LAB3_4\Lab34CG\Lab34CG\Objects.h(107,19): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\University\3 course\Computer Graphic\LAB3_4\Lab34CG\Lab34CG\Objects.h(108,19): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\University\3 course\Computer Graphic\LAB3_4\Lab34CG\Lab34CG\Objects.h(139,26): warning C4244: return: преобразование "float" в "int", возможна потеря данных
+D:\University\3 course\Computer Graphic\LAB3_4\Lab34CG\Lab34CG\Objects.h(141,26): warning C4244: return: преобразование "float" в "int", возможна потеря данных
+D:\University\3 course\Computer Graphic\LAB3_4\Lab34CG\Lab34CG\Objects.h(167,1): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+D:\University\3 course\Computer Graphic\LAB3_4\Lab34CG\Lab34CG\Objects.h(169,108): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+D:\University\3 course\Computer Graphic\LAB3_4\Lab34CG\Lab34CG\Objects.h(169,101): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+D:\University\3 course\Computer Graphic\LAB3_4\Lab34CG\Lab34CG\Objects.h(169,95): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+D:\University\3 course\Computer Graphic\LAB3_4\Lab34CG\Lab34CG\Objects.h(169,55): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+D:\University\3 course\Computer Graphic\LAB3_4\Lab34CG\Lab34CG\NPC.h(38,56): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+D:\University\3 course\Computer Graphic\LAB3_4\Lab34CG\Lab34CG\NPC.h(38,53): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+D:\University\3 course\Computer Graphic\LAB3_4\Lab34CG\Lab34CG\NPC.h(45,1): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+D:\University\3 course\Computer Graphic\LAB3_4\Lab34CG\Lab34CG\NPC.h(47,76): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+D:\University\3 course\Computer Graphic\LAB3_4\Lab34CG\Lab34CG\NPC.h(47,73): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+D:\University\3 course\Computer Graphic\LAB3_4\Lab34CG\Lab34CG\main.cpp(27,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\University\3 course\Computer Graphic\LAB3_4\Lab34CG\Lab34CG\main.cpp(145,71): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+D:\University\3 course\Computer Graphic\LAB3_4\Lab34CG\Lab34CG\main.cpp(147,14): warning C4244: инициализация: преобразование "sf::Int64" в "float", возможна потеря данных
+D:\University\3 course\Computer Graphic\LAB3_4\Lab34CG\Lab34CG\main.cpp(245,81): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\University\3 course\Computer Graphic\LAB3_4\Lab34CG\Lab34CG\main.cpp(245,60): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\University\3 course\Computer Graphic\LAB3_4\Lab34CG\Lab34CG\main.cpp(257,82): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\University\3 course\Computer Graphic\LAB3_4\Lab34CG\Lab34CG\main.cpp(257,61): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\University\3 course\Computer Graphic\LAB3_4\Lab34CG\Lab34CG\main.cpp(269,83): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\University\3 course\Computer Graphic\LAB3_4\Lab34CG\Lab34CG\main.cpp(269,62): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\University\3 course\Computer Graphic\LAB3_4\Lab34CG\Lab34CG\main.cpp(281,82): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\University\3 course\Computer Graphic\LAB3_4\Lab34CG\Lab34CG\main.cpp(281,61): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\University\3 course\Computer Graphic\LAB3_4\Lab34CG\Lab34CG\main.cpp(294,82): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\University\3 course\Computer Graphic\LAB3_4\Lab34CG\Lab34CG\main.cpp(294,61): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\University\3 course\Computer Graphic\LAB3_4\Lab34CG\Lab34CG\main.cpp(307,83): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\University\3 course\Computer Graphic\LAB3_4\Lab34CG\Lab34CG\main.cpp(307,62): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\University\3 course\Computer Graphic\LAB3_4\Lab34CG\Lab34CG\main.cpp(417,34): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\University\3 course\Computer Graphic\LAB3_4\Lab34CG\Lab34CG\main.cpp(417,26): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\University\3 course\Computer Graphic\LAB3_4\Lab34CG\Lab34CG\mission.h(40): warning C4715: GetFinishMission: значение возвращается не при всех путях выполнения
+  Lab34CG.vcxproj -> D:\University\3 course\Computer Graphic\LAB3_4\Lab34CG\Debug\Lab34CG.exe
